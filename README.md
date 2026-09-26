@@ -23,9 +23,9 @@ Four examples thread through the book. Reuse them; do not invent parallel demos.
 | **Structural Reasoner** | Graph / KG constraints and structured outputs (GNN + ConstraintLLM) |
 | **Dynamic Streamer** | Real-time multimodal streams (e.g. 60 fps vision–language pipelines) |
 
-## Invoice Impact
+## Inference scorecard (Ch.1) and Invoice Impact (Ch.3+)
 
-Chapter 1 introduces an **Invoice Impact** mechanism: a before/after cost–latency–quality note versus the Transformer baseline for Scalar and Agent. Use the template in [`examples/templates/invoice-impact.md`](examples/templates/invoice-impact.md). Do not invent fake leaderboard numbers.
+Chapter 1 builds an **inference scorecard** and the **four walls** of inference (prefill/time, memory, bandwidth, recall) across all four running examples. From Chapter 3 onward, reuse that schema as **Invoice Impact** before/after rows versus the Transformer baseline — template: [`examples/templates/invoice-impact.md`](examples/templates/invoice-impact.md). Do not invent fake leaderboard numbers.
 
 ## Architecture triage
 
@@ -35,7 +35,7 @@ Chapter 2’s decision framework lives at [`examples/architecture-decision-frame
 
 | # | Folder | Title |
 |---|--------|-------|
-| 1 | [chapters/01-transformer-paradigm](chapters/01-transformer-paradigm) | The Transformer Paradigm (2017–2023) |
+| 1 | [chapters/01-transformer-paradigm](chapters/01-transformer-paradigm) | The Transformer Paradigm (2017–2024) |
 | 2 | [chapters/02-architectural-taxonomy-2026](chapters/02-architectural-taxonomy-2026) | The Architectural Taxonomy of 2026 |
 | 3 | [chapters/03-modern-rnns](chapters/03-modern-rnns) | Modern Recurrent Neural Networks |
 | 4 | [chapters/04-state-space-models](chapters/04-state-space-models) | State Space Models (SSMs) |

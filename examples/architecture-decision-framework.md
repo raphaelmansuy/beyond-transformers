@@ -25,4 +25,4 @@ Short triage matching the 2026 taxonomy: **Generative**, **Predictive**, and **E
 
 ## Output of triage
 
-Record: chosen family, running example(s) touched, and an Invoice Impact stub if replacing Ch1 baseline.
+Record: chosen family, running example(s) touched, and a scorecard / Invoice Impact stub (Ch3+) if replacing the Ch1 baseline rows.
