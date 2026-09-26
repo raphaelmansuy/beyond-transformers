@@ -35,7 +35,7 @@ Chapter 2’s decision framework lives at [`examples/architecture-decision-frame
 
 | # | Folder | Title |
 |---|--------|-------|
-| 1 | [chapters/01-transformer-paradigm](chapters/01-transformer-paradigm) | The Transformer Paradigm (2017–2023) |
+| 1 | [chapters/01-transformer-paradigm](chapters/01-transformer-paradigm) | The Transformer Paradigm (2017–2024) |
 | 2 | [chapters/02-architectural-taxonomy-2026](chapters/02-architectural-taxonomy-2026) | The Architectural Taxonomy of 2026 |
 | 3 | [chapters/03-modern-rnns](chapters/03-modern-rnns) | Modern Recurrent Neural Networks |
 | 4 | [chapters/04-state-space-models](chapters/04-state-space-models) | State Space Models (SSMs) |

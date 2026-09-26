@@ -1,4 +1,4 @@
-# Chapter 1 — The Transformer Paradigm (2017–2023)
+# Chapter 1 — The Transformer Paradigm (2017–2024)
 
 Spine: [`SPINE.md`](SPINE.md) (Packt DOCX headings extract).
 

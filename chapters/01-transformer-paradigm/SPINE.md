@@ -1,4 +1,4 @@
-# Spine — Chapter 1: The Transformer Paradigm (2017–2023)
+# Spine — Chapter 1: The Transformer Paradigm (2017–2024)
 
 **Source:** Packt Final Improved DOCX (`B38257_01_Packt_Final_Improved_v3`). Headings only — not the manuscript.
 
