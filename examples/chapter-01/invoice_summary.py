@@ -1,7 +1,12 @@
-"""Stub — Beyond Transformers Chapter 01.
+"""Chapter 1 scorecard baseline stub.
 
-Intent: Invoice Impact baseline rows for Scalar + Agent
-See chapters/*/SPINE.md and README.md. Marked stub until implemented.
+Intent: represent baseline rows for Efficient Scalar, Long-Context Agent,
+Structural Reasoner, and Dynamic Streamer. The eventual scorecard output is
+schema-compatible with the later Ch3+ Invoice Impact template so rows can be
+concatenated across chapters. This remains a runnable CPU-smoke stub until
+measurements are implemented.
+
+See ``chapters/01-transformer-paradigm/SPINE.md`` and the chapter README.
 """
 
 # stub

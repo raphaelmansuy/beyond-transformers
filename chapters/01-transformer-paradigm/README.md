@@ -1,26 +1,36 @@
-# Chapter 1 — The Transformer Paradigm (2017–2024)
+# Chapter 1 — The Transformer Paradigm (2017–2023)
 
-Spine: [`SPINE.md`](SPINE.md) (from Packt DOCX headings).
+Spine: [`SPINE.md`](SPINE.md) (Packt DOCX headings extract).
 
-## What this chapter teaches
+## What you learn
 
-- Why Transformers won training (inductive bias, hardware lottery, prefill vs decode).
-- How to build an **inference scorecard** and name the four walls: time, memory, bandwidth, recall.
-- Physics of inference costs for the Chapter 1 baseline.
-- Stress-tests on the four running examples (Scalar, Agent, Reasoner, Streamer).
-- The **Invoice Impact** baseline used from Chapter 3 onward.
+- How to build and read an **inference scorecard**: vocabulary, chip speed limits, ceiling vs observed reality.
+- The **four walls** of inference — **prefill/time**, **memory**, **bandwidth**, and **recall** — derived as the physics of cost.
+- Why the Transformer is the measurement baseline (training-era properties → stage-by-stage forward-pass cost).
+- How to stress-test the **same scorecard** on all four running workloads: **Efficient Scalar**, **Long-Context Agent**, **Structural Reasoner**, and **Dynamic Streamer**.
 
-## Example you build
+## What you build
 
-Scorecard + recall demo against a tiny Transformer (`nano_transformer.py`), then fill Invoice Impact rows (`invoice_summary.py`). See spine for section order.
+- Scorecard / wall accounting stub (`inference_accounting.py`) plus a tiny Transformer baseline (`nano_transformer.py`).
+- Master-matrix row stubs covering all four workloads (`invoice_summary.py` — schema only).
+- Wall-4 recall smoke check (`limit4_recall_demo.py`).
+
+**Invoice Impact** is not a Chapter 1 deep dive. Use the Ch3+ template at [`examples/templates/invoice-impact.md`](../../examples/templates/invoice-impact.md) when later chapters rebuild a workload against this baseline.
+
+All example scripts are intentionally stubs for now; they remain CPU-smoke runnable.
 
 ## How to run
 
+From the repository root:
+
 ```bash
-python examples/chapter-01/nano_transformer.py      # stub
-python examples/chapter-01/limit4_recall_demo.py    # stub
-python examples/chapter-01/invoice_summary.py       # stub
+python examples/chapter-01/inference_accounting.py
+python examples/chapter-01/nano_transformer.py
+python examples/chapter-01/limit4_recall_demo.py
+python examples/chapter-01/invoice_summary.py
 ```
+
+See [`SPINE.md`](SPINE.md) for the section order and source headings.
 
 ## Key refs
 

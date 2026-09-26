@@ -23,9 +23,9 @@ Four examples thread through the book. Reuse them; do not invent parallel demos.
 | **Structural Reasoner** | Graph / KG constraints and structured outputs (GNN + ConstraintLLM) |
 | **Dynamic Streamer** | Real-time multimodal streams (e.g. 60 fps vision–language pipelines) |
 
-## Invoice Impact
+## Inference scorecard (Ch.1) and Invoice Impact (Ch.3+)
 
-Chapter 1 introduces an **Invoice Impact** mechanism: a before/after cost–latency–quality note versus the Transformer baseline for Scalar and Agent. Use the template in [`examples/templates/invoice-impact.md`](examples/templates/invoice-impact.md). Do not invent fake leaderboard numbers.
+Chapter 1 builds an **inference scorecard** and the **four walls** of inference (prefill/time, memory, bandwidth, recall) across all four running examples. From Chapter 3 onward, reuse that schema as **Invoice Impact** before/after rows versus the Transformer baseline — template: [`examples/templates/invoice-impact.md`](examples/templates/invoice-impact.md). Do not invent fake leaderboard numbers.
 
 ## Architecture triage
 
