@@ -90,3 +90,9 @@ secrets/
 credentials.json
 .env.local
 .env.*.local
+
+# Packt manuscript spines (local only — never commit)
+**/.spine/
+*.docx
+*.doc
+_spine_extract/

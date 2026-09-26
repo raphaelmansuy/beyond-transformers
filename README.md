@@ -53,6 +53,16 @@ Chapter 2’s decision framework lives at [`examples/architecture-decision-frame
 
 Example stubs live under `examples/chapter-NN/` and point back to the matching chapter README.
 
+## Chapter folder convention
+
+Each `chapters/NN-*/` folder contains:
+
+- `README.md` — what you learn, example you build, how to run
+- `SPINE.md` — heading spine from the Packt DOCX (Ch1–3) or Book outline V11 (Ch4–15)
+- Example stubs under `examples/chapter-NN/` named after manuscript / outline scripts
+
+**Policy:** Packt `.docx` files are **not** published here. Local extracts may live under gitignored `.spine/` directories.
+
 ## Stance (Sept 2026)
 
 Treat the Transformer as the **measured baseline**, then pick SSM / hybrid / JEPA / agent / eval tooling for the workload. Prefer honest comparative dynamics (MQAR, copying) over marketing curves.

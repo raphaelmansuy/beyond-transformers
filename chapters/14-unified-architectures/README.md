@@ -1,5 +1,8 @@
 # Chapter 14 — Toward Unified Architectures (2026–2030)
 
+Spine: [`SPINE.md`](SPINE.md) (outline V11 — Packt DOCX not yet available).
+
+
 ## What this chapter teaches
 
 - Convergence themes: shared state interfaces, hybrid blocks, and latent planners.

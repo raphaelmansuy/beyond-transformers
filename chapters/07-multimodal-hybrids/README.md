@@ -1,5 +1,8 @@
 # Chapter 7 — Multimodal Hybrids
 
+Spine: [`SPINE.md`](SPINE.md) (outline V11 — Packt DOCX not yet available).
+
+
 ## What this chapter teaches
 
 - Extending SSM/hybrid backbones to vision and audio streams.

@@ -1,5 +1,8 @@
 # Chapter 13 — Evaluation & Benchmarks (2025–2026)
 
+Spine: [`SPINE.md`](SPINE.md) (outline V11 — Packt DOCX not yet available).
+
+
 ## What this chapter teaches
 
 - Why perplexity alone is not enough for agents, long context, and structure.

@@ -1,5 +1,8 @@
 # Chapter 4 — State Space Models (SSMs)
 
+Spine: [`SPINE.md`](SPINE.md) (outline V11 — Packt DOCX not yet available).
+
+
 ## What this chapter teaches
 
 - From S4-style continuous SSMs to **selective** discrete models (Mamba).

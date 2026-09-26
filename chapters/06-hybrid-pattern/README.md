@@ -1,5 +1,8 @@
 # Chapter 6 — The Hybrid Pattern (Attention ⊕ State)
 
+Spine: [`SPINE.md`](SPINE.md) (outline V11 — Packt DOCX not yet available).
+
+
 ## What this chapter teaches
 
 - Why pure Attention or pure state is often insufficient.

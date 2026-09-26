@@ -1,7 +1,5 @@
-# Examples — Chapter 01
+# Examples — Chapter 1
 
-See the chapter guide: [`chapters/01-transformer-paradigm/README.md`](../../chapters/01-transformer-paradigm/README.md).
+Chapter guide + spine: [`chapters/01-transformer-paradigm/`](../../chapters/01-transformer-paradigm/).
 
-Baseline Attention + KV-cache estimate for Efficient Scalar / Long-Context Agent.
-
-Scripts below are **stubs** (marked in-file). They exist so `python examples/chapter-01/...` paths resolve.
+Scripts named in the Packt manuscript / outline (stubs until implemented).

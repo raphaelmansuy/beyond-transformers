@@ -1,5 +1,8 @@
 # Chapter 5 — Comparative Dynamics
 
+Spine: [`SPINE.md`](SPINE.md) (outline V11 — Packt DOCX not yet available).
+
+
 ## What this chapter teaches
 
 - How Linear Attention, SSMs, and modern RNNs relate as dynamical systems.

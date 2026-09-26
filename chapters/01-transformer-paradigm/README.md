@@ -1,22 +1,25 @@
-# Chapter 1 — The Transformer Paradigm (2017–2023)
+# Chapter 1 — The Transformer Paradigm (2017–2024)
+
+Spine: [`SPINE.md`](SPINE.md) (from Packt DOCX headings).
 
 ## What this chapter teaches
 
-- Why Attention became the default for sequence modeling (2017–2023).
-- The physics of Attention: QKV, softmax, and quadratic cost in sequence length.
-- The **KV-cache wall**: memory and latency limits at long context.
-- The four running examples you will reuse: Efficient Scalar, Long-Context Agent, Structural Reasoner, Dynamic Streamer.
-- How **Invoice Impact** records before/after cost–latency–quality vs this baseline.
+- Why Transformers won training (inductive bias, hardware lottery, prefill vs decode).
+- How to build an **inference scorecard** and name the four walls: time, memory, bandwidth, recall.
+- Physics of inference costs for the Chapter 1 baseline.
+- Stress-tests on the four running examples (Scalar, Agent, Reasoner, Streamer).
+- The **Invoice Impact** baseline used from Chapter 3 onward.
 
 ## Example you build
 
-**Baseline Transformer stubs** for Efficient Scalar and Long-Context Agent, plus an Invoice Impact note using [`examples/templates/invoice-impact.md`](../../examples/templates/invoice-impact.md). Scripts demonstrate a tiny Attention block and a placeholder KV-cache size estimate — not production training.
+Scorecard + recall demo against a tiny Transformer (`nano_transformer.py`), then fill Invoice Impact rows (`invoice_summary.py`). See spine for section order.
 
 ## How to run
 
 ```bash
-python examples/chapter-01/baseline_attention.py   # stub
-python examples/chapter-01/kv_cache_estimate.py     # stub
+python examples/chapter-01/nano_transformer.py      # stub
+python examples/chapter-01/limit4_recall_demo.py    # stub
+python examples/chapter-01/invoice_summary.py       # stub
 ```
 
 ## Key refs

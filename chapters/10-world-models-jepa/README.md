@@ -1,5 +1,8 @@
 # Chapter 10 — World Models & JEPA
 
+Spine: [`SPINE.md`](SPINE.md) (outline V11 — Packt DOCX not yet available).
+
+
 ## What this chapter teaches
 
 - Prediction ≠ generation: latent predictive objectives vs token sampling.

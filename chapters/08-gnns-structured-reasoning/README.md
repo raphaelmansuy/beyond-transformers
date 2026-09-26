@@ -1,5 +1,8 @@
 # Chapter 8 — GNNs & Structured Reasoning
 
+Spine: [`SPINE.md`](SPINE.md) (outline V11 — Packt DOCX not yet available).
+
+
 ## What this chapter teaches
 
 - The **Structure Gap**: flat sequences vs relational constraints.

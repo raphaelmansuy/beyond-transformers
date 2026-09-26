@@ -1,5 +1,8 @@
 # Chapter 11 — Agentic Loops & Hierarchical Planning
 
+Spine: [`SPINE.md`](SPINE.md) (outline V11 — Packt DOCX not yet available).
+
+
 ## What this chapter teaches
 
 - Decision Mamba and sequence models as policies over trajectories.

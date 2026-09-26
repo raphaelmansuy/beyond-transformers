@@ -1,7 +1,7 @@
-"""Stub triage CLI for Chapter 2 architecture decision framework.
+"""Stub triage CLI — Chapter 2 architecture decision framework.
 
-See examples/architecture-decision-framework.md and
-chapters/02-architectural-taxonomy-2026/README.md.
+See chapters/02-architectural-taxonomy-2026/SPINE.md and
+examples/architecture-decision-framework.md.
 """
 
 # stub
@@ -16,10 +16,9 @@ EXAMPLES = (
 
 
 def main() -> None:
-    print("[stub] Beyond Transformers — architecture triage")
+    print("[stub] architecture triage")
     print("Families:", ", ".join(FAMILIES))
     print("Running examples:", ", ".join(EXAMPLES))
-    print("Fill in interactive questions later; see architecture-decision-framework.md")
 
 
 if __name__ == "__main__":

@@ -1,5 +1,8 @@
 # Chapter 9 — Energy-Based Models & Dynamic Inference
 
+Spine: [`SPINE.md`](SPINE.md) (outline V11 — Packt DOCX not yet available).
+
+
 ## What this chapter teaches
 
 - Energy-Based Transformers / EBTs: inference as optimizing an energy.
