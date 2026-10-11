@@ -25,7 +25,7 @@ Four examples thread through the book. Reuse them; do not invent parallel demos.
 
 ## Inference scorecard (Ch.1) and Invoice Impact (Ch.3+)
 
-Chapter 1 builds an **inference scorecard** and the **four walls** of inference (prefill/time, memory, bandwidth, recall) across all four running examples. From Chapter 3 onward, reuse that schema as **Invoice Impact** before/after rows versus the Transformer baseline — template: [`examples/templates/invoice-impact.md`](examples/templates/invoice-impact.md). Do not invent fake leaderboard numbers.
+Chapter 1 builds an **inference scorecard** and the **four walls** of inference (prefill/time, memory, bandwidth, recall) across all four running examples. The scorecard preset is **8B GQA-8**; companion memory figures use **GiB** (2³⁰). Paper “GB” belongs only in cells labelled `reproduced-from-source`. From Chapter 3 onward, reuse that schema as **Invoice Impact** before/after rows versus the Transformer baseline — template: [`examples/templates/invoice-impact.md`](examples/templates/invoice-impact.md). Do not invent fake leaderboard numbers.
 
 ## Architecture triage
 

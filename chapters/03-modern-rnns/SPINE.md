@@ -70,4 +70,4 @@
 
 ## Invoice Impact (starts here)
 
-Rebuild **Efficient Scalar** with gated recurrence / RWKV; record before/after vs the Chapter 1 Transformer scorecard baseline. Template: [`examples/templates/invoice-impact.md`](../../examples/templates/invoice-impact.md).
+Rebuild **Efficient Scalar** with gated recurrence / RWKV; record before/after vs the Chapter 1 **8B GQA-8** Transformer scorecard baseline (memory in **GiB**). Template: [`examples/templates/invoice-impact.md`](../../examples/templates/invoice-impact.md).

@@ -6,7 +6,7 @@
 
 ## Lead thesis (public companion)
 
-Chapter 1 leads with an **inference scorecard** and the **four walls** — Prefill/Time, Memory, Bandwidth, Recall — applied across all four running examples (Efficient Scalar, Long-Context Agent, Structural Reasoner, Dynamic Streamer). **Invoice Impact** is only a pointer here; the before/after protocol starts in Chapter 3+ via [`examples/templates/invoice-impact.md`](../../examples/templates/invoice-impact.md).
+Chapter 1 leads with an **inference scorecard** and the **four walls** — Prefill/Time, Memory, Bandwidth, Recall — applied across all four running examples (Efficient Scalar, Long-Context Agent, Structural Reasoner, Dynamic Streamer). The scorecard preset is **8B GQA-8**; companion memory units are **GiB** (2³⁰). **Invoice Impact** is only a pointer here; the before/after protocol starts in Chapter 3+ via [`examples/templates/invoice-impact.md`](../../examples/templates/invoice-impact.md).
 
 ## Headings
 

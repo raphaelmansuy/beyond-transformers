@@ -1,6 +1,6 @@
 """Stub — Beyond Transformers Chapter 03.
 
-Intent: Invoice Impact harness vs Chapter 1 baseline
+Intent: Invoice Impact harness vs Chapter 1 8B GQA-8 baseline (memory in GiB)
 See chapters/*/SPINE.md and README.md. Marked stub until implemented.
 """
 

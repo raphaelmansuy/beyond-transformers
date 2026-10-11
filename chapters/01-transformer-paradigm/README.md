@@ -6,7 +6,7 @@ Spine: [`SPINE.md`](SPINE.md) (Packt DOCX headings extract).
 
 - How to build and read an **inference scorecard**: vocabulary, chip speed limits, ceiling vs observed reality.
 - The **four walls** of inference — **prefill/time**, **memory**, **bandwidth**, and **recall** — derived as the physics of cost.
-- Why the Transformer is the measurement baseline (training-era properties → stage-by-stage forward-pass cost).
+- Why the Transformer is the measurement baseline (training-era properties → stage-by-stage forward-pass cost). The companion scorecard preset is **8B GQA-8**; memory figures use **GiB** (2³⁰).
 - How to stress-test the **same scorecard** on all four running workloads: **Efficient Scalar**, **Long-Context Agent**, **Structural Reasoner**, and **Dynamic Streamer**.
 
 ## What you build

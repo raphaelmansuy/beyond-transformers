@@ -13,7 +13,7 @@
 
 ## Invoice Impact
 
-Full agent stack ms/memory vs Chapter 1 agent baseline.
+Full agent stack ms / memory (GiB) vs Chapter 1 **8B GQA-8** agent baseline.
 
 ## Named example stubs
 

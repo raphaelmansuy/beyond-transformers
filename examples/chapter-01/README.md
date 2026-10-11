@@ -1,6 +1,6 @@
 # Examples — Chapter 1
 
-CPU-smoke stubs for the Chapter 1 **inference scorecard** and its **four walls** (prefill/time, memory, bandwidth, recall). The scorecard / master-matrix surface covers all four running workloads: Efficient Scalar, Long-Context Agent, Structural Reasoner, and Dynamic Streamer.
+CPU-smoke stubs for the Chapter 1 **inference scorecard** and its **four walls** (prefill/time, memory, bandwidth, recall). The scorecard preset is **8B GQA-8**; companion memory units are **GiB** (2³⁰). The scorecard / master-matrix surface covers all four running workloads: Efficient Scalar, Long-Context Agent, Structural Reasoner, and Dynamic Streamer.
 
 - `inference_accounting.py` — scorecard / wall arithmetic baseline stub.
 - `nano_transformer.py` — tiny Transformer measurement baseline.

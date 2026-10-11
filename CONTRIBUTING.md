@@ -12,7 +12,7 @@ This repository holds **chapter scaffolds, running examples, and evaluation temp
 2. Fork and create a branch named `chapter-NN/short-desc` or `examples/short-desc`.
 3. Keep chapter READMEs simple: what you learn, the example you build, how to run.
 4. Mark unfinished scripts with `# stub` and a one-line comment of intended behavior.
-5. Do not invent benchmark numbers; use the Invoice Impact template for before/after notes.
+5. Do not invent benchmark numbers; use the Invoice Impact template for before/after notes. Scorecard preset is **8B GQA-8**; companion memory units are **GiB** (2³⁰). Paper “GB” only in `reproduced-from-source` cells.
 6. Open a pull request against `main`.
 
 ## Code style

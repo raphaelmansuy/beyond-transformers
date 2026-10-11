@@ -1,6 +1,6 @@
 # Examples — Chapter 2
 
-- `kv_cache.py` — KV consequence / compression-vs-retrieval arithmetic stub.
+- `kv_cache.py` — KV consequence / compression-vs-retrieval arithmetic stub (**GiB**, vs **8B GQA-8**).
 - `triage.py` — route the four canonical examples; diagnose a mis-route.
 
 See [`chapters/02-architectural-taxonomy-2026/`](../../chapters/02-architectural-taxonomy-2026/).

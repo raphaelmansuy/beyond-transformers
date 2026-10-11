@@ -7,7 +7,7 @@ Spine: [`SPINE.md`](SPINE.md) (Packt DOCX headings extract).
 - Why gated linear recurrence returned under serving pressure (vs attention KV growth).
 - First-principles gated state updates; **xLSTM** (sLSTM / mLSTM) and **RWKV-7 Goose** at production depth.
 - Parallel training vs efficient decode (kernels, CUDA Graphs, state persistence / reset).
-- Rebuilding **Efficient Scalar** and recording **Invoice Impact** against the Chapter 1 scorecard baseline.
+- Rebuilding **Efficient Scalar** and recording **Invoice Impact** against the Chapter 1 **8B GQA-8** scorecard baseline (memory in **GiB**).
 
 ## What you build
 

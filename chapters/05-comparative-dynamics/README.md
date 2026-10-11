@@ -22,4 +22,4 @@ python examples/chapter-05/mqar_copying_harness.py   # stub
 
 ## Key refs
 
-- RetNet — arXiv:2307.08691
+- RetNet — arXiv:2307.08621

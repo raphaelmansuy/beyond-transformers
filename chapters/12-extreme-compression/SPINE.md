@@ -13,7 +13,7 @@
 
 ## Invoice Impact
 
-Quantized Efficient Scalar (and/or Streamer) — bytes/step + latency vs FP16 Ch1 rows.
+Quantized Efficient Scalar (and/or Streamer) — bytes/step + latency vs FP16 **8B GQA-8** Ch1 rows. Companion memory figures use **GiB**.
 
 ## Named example stubs
 

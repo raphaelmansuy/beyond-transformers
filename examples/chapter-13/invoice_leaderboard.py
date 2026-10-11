@@ -1,5 +1,8 @@
 """Stub for Beyond Transformers — Chapter 13.
 
+Intent: aggregate Invoice Impact rows vs the Chapter 1 8B GQA-8
+scorecard. Companion memory units are GiB (2**30). Empty cells OK.
+
 See chapters/13-evaluation-benchmarks/README.md for intent.
 Replace this placeholder with the runnable example from the book companion roadmap.
 """
