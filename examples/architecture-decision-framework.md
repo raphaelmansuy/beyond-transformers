@@ -15,7 +15,7 @@ Short triage matching the 2026 taxonomy: **Generative**, **Predictive**, and **E
 
 | Need | First candidates |
 |------|------------------|
-| Generative next-token, short–mid context | Transformer baseline; RetNet / hybrid later |
+| Generative next-token, short–mid context | Transformer baseline (**8B GQA-8**); RetNet / hybrid later |
 | Long context, linear-ish memory | Mamba / SSM; Samba–Griffin hybrids |
 | Streaming scalar / cheap decode | RWKV / xLSTM (Efficient Scalar) |
 | Multimodal real-time | MambaVision / VAMBA-style (Dynamic Streamer) |
@@ -25,4 +25,4 @@ Short triage matching the 2026 taxonomy: **Generative**, **Predictive**, and **E
 
 ## Output of triage
 
-Record: chosen family, running example(s) touched, and an Invoice Impact stub if replacing Ch1 baseline.
+Record: chosen family, running example(s) touched, and a scorecard / Invoice Impact stub (Ch3+) if replacing the Ch1 **8B GQA-8** baseline rows (memory in **GiB**).

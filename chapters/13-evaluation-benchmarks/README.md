@@ -12,10 +12,10 @@ Spine: [`SPINE.md`](SPINE.md) (outline V11 — Packt DOCX not yet available).
 
 ## Example you build
 
-**Invoice leaderboard scaffold** — a Markdown/CSV template plus a stub runner that aggregates Invoice Impact rows for Scalar and Agent across chapters. Empty numeric cells until you measure.
+**Invoice leaderboard scaffold** — a labelled schema runner that conceptually aggregates Invoice Impact rows for Scalar and Agent (Reasoner / Streamer columns kept, optional) across Chapters 3–12. Empty cells until you measure; do not invent fills.
 
 ## How to run
 
 ```bash
-python examples/chapter-13/invoice_leaderboard.py   # stub
+python3 examples/chapter-13/invoice_leaderboard.py   # schema + labels; fills empty
 ```

@@ -8,7 +8,7 @@ Spine: [`SPINE.md`](SPINE.md) (outline V11 — Packt DOCX not yet available).
 - Why linear-time / stateful models compress differently than Transformer KV caches.
 - Bi-Mamba and binary / low-bit sketches for SSMs.
 - RWKV-oriented **mobile quantization** for Efficient Scalar.
-- Measuring size and latency on-device vs Ch1 baseline (Invoice Impact).
+- Measuring size and latency on-device vs Ch1 **8B GQA-8** baseline (Invoice Impact; companion memory in **GiB**).
 
 ## Example you build
 

@@ -13,7 +13,7 @@
 
 ## Invoice Impact
 
-Hybrid Agent — decode HBM + recall @ 128k vs pure Transformer and pure SSM.
+Hybrid Agent — decode HBM (GiB) + recall @ 128k vs **8B GQA-8** Transformer and pure SSM. Do not invent timings.
 
 ## Named example stubs
 

@@ -13,7 +13,7 @@
 
 ## Invoice Impact
 
-Dynamic Streamer — frame latency / throughput vs Transformer baseline.
+Dynamic Streamer — frame latency / throughput vs **8B GQA-8** Transformer baseline.
 
 ## Named example stubs
 
